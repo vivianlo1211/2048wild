@@ -124,7 +124,7 @@ a:focus {
   font-family: "Comic Sans", Comic Sans MS, cursive;
 }
 #contact .box {
-  background-color: #222;
+  background-color: #333;
   color: #999;
 }
 #contact .box h1,
@@ -141,7 +141,7 @@ a:focus {
 #contact .box input[type="text"],
 #contact .box input[type="email"],
 #contact .box textarea {
-  background-color: #111;
+  background-color: #222;
   border: 0;
   -webkit-transition: 300ms;
   -moz-transition: 300ms;
